@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://media.licdn.com/dms/image/v2/D5616AQHB-W1R_hmKjw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713240911936?e=1730937600&v=beta&t=fp9cBASnkbXf1sxoj_tyoVcN7d8N8JfFudY-At36gcs)
 
 # Hi there 👋, Bhargavi here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
