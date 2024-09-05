@@ -1,21 +1,21 @@
 ![Github Banner](https://media.licdn.com/dms/image/v2/D5616AQHB-W1R_hmKjw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713240911936?e=1730937600&v=beta&t=fp9cBASnkbXf1sxoj_tyoVcN7d8N8JfFudY-At36gcs)
 
-# Hi there 👋, Bhargavi here. 
+# Hi there 👋, ZithCode here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+Soy Desarrollador Web con +1 año de Experiencia Desarrollando Webs interactivas con Laravel, Javascript, y demás. Me encanta innovar en diseños creativos además de proponer soluciones lógicas para problemas de BackEnd.
+* **Estoy interesando en Desarrollo Web FullStack además de Seguridad Informatica**
+- 🌱 Estoy actualmente aprendiendo ...
+  - Angular
   - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+  - Patrones de Diseño
+  - Estructura de Datos y sus aplicaciones
+- ✔ Preguntame lo que necesites, Estaré feliz de ayudar! 😉<br>
+- Fuera de la tecnología, 📖 Me encanta leer libros sobre gatos, 🏎️ los deportes de motor, 👺 el anime, y 🎶 la composición musical.
+- 📫 Comunicate conmigo: <a href="hermar.lopezgarcia@gmail.com">Pulsando aquí</a>
 
 <h2 align="center">
-Technologies and Languages </h2>
+Tecnologías y Lenguajes </h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -67,9 +67,8 @@ Technologies and Languages </h2>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
-<h3> + many more! </h3>
 
-<h2>Connect with me!</h2>
+<h2>¡Conecta conmigo!</h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
 <br> <br>
