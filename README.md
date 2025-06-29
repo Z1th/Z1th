@@ -1,7 +1,6 @@
-![Github Banner](https://media.licdn.com/dms/image/v2/D5616AQHB-W1R_hmKjw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713240911936?e=1730937600&v=beta&t=fp9cBASnkbXf1sxoj_tyoVcN7d8N8JfFudY-At36gcs)
+![Github Banner](https://media.licdn.com/dms/image/v2/D5616AQHB-W1R_hmKjw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713240911936?e=1756944000&v=beta&t=i3T3vsYMqR4hN_We2ylXetz8oClx7R6RAHwY0uXFqK0)
 
 # Hi there 👋, ZithCode here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 Soy Desarrollador Web con +1 año de Experiencia Desarrollando Webs interactivas con Laravel, Javascript, y demás. Me encanta innovar en diseños creativos además de proponer soluciones lógicas para problemas de BackEnd.
 * **Estoy interesando en Desarrollo Web FullStack además de Seguridad Informatica**
