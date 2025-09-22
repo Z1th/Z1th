@@ -6,7 +6,7 @@ I believe in building solutions with **clean, efficient, and maintainable code**
 ### 💻 Tech I work with
 - Frameworks: **React, Angular, Next.js, Laravel**
 - Architecture: **Clean Architecture, Hexagonal Design, Component-Based Architecture**
-- Interests: **SRE, DevOps, Cloud (AWS, GCP, Azure), Android (React Nativem IONIC), UI/UX**
+- Interests: **SRE, DevOps, Cloud (AWS, GCP, Azure), Android (React Native, IONIC), UI/UX**
 
 ### ⚡ Practices
 - **Agile / SCRUM** – I work following agile principles and SCRUM framework to deliver value iteratively.  
